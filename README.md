@@ -10,7 +10,7 @@
 
 **A high-fidelity, cyberpunk-themed visual discovery feed and inspection studio.**
 
-[Live Demo](https://github.com/Marvel0007/Nexus-Gallary) • [Features](#-key-features) • [Keyboard Matrix](#-keyboard-shortcuts-matrix) • [Getting Started](#-getting-started)
+[Live Demo](https://github.com/Marvel0007/Nexus-Gallary) • [Video Walkthrough](https://youtu.be/9613ANMQcTM) • [Features](#-key-features) • [Keyboard Matrix](#-keyboard-shortcuts-matrix) • [Getting Started](#-getting-started)
 
 </div>
 
@@ -19,6 +19,20 @@
 ## 🌌 Overview
 
 **Nexus Gallery** is a futuristic photo curation web application engineered with **React 19**, **Tailwind CSS v4**, and the **Picsum Photos V2 API**. It pairs a responsive multi-column gallery with persistent bookmarking, dynamic visual filters, and real-time creator search.
+
+---
+
+## 🎬 Video Demo & Walkthrough
+
+Click the preview below to watch the live walkthrough on YouTube:
+
+<div align="center">
+
+[![Watch Nexus Gallery Demo](https://img.youtube.com/vi/9613ANMQcTM/maxresdefault.jpg)](https://youtu.be/9613ANMQcTM)
+
+▶️ **[Watch Full Video on YouTube](https://youtu.be/9613ANMQcTM)**
+
+</div>
 
 ---
 
