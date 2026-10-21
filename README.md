@@ -5,14 +5,22 @@
 ![React](https://img.shields.io/badge/React-19.3-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Picsum API](https://img.shields.io/badge/Picsum-Photos_API-ef4444?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 **A high-fidelity, cyberpunk-themed visual discovery feed and inspection studio.**
 
-[Live Demo](https://github.com/Marvel0007/Nexus-Gallary) • [Video Walkthrough](https://youtu.be/9613ANMQcTM) • [Features](#-key-features) • [Keyboard Matrix](#-keyboard-shortcuts-matrix) • [Getting Started](#-getting-started)
+🌐 **[Live Demo](https://nexus-gallary.vercel.app/)** • 🎬 **[Video Walkthrough](https://youtu.be/9613ANMQcTM)** • [Features](#-key-features) • [Keyboard Matrix](#-keyboard-shortcuts-matrix) • [Getting Started](#-getting-started)
 
 </div>
+
+---
+
+## 🌐 Live Web Application
+
+Experience the live app deployed on Vercel:
+👉 **[https://nexus-gallary.vercel.app/](https://nexus-gallary.vercel.app/)**
 
 ---
 
